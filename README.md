@@ -1,4 +1,5 @@
-## Hi, I'm Ngozi Ojukwu!👋🏽
+
+<img width="1920" alt="Frame 555" src="https://github.com/user-attachments/assets/1f210bbf-0ad8-4e12-8f71-b7332a7b19cf"> <br/>
 
 Full Stack Developer and UX/UI Designer passionate about building intuitive, visually appealing web applications. With expertise in HTML, CSS, JavaScript, React, PHP, and MySQL, I specialise in combining backend systems with clean, efficient frontend designs. I thrive on solving complex problems and delivering seamless digital experiences. Whether you're looking for a creative collaborator or a tech expert to bring your project to life, I'm here to help. Let's build something great together!<br/>
 
